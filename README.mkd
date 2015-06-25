@@ -1,0 +1,8 @@
+A sample project to run tests over BrowserStack Automate.
+
+Edit `env.rb` to set the browser on which the tests
+should be run, and the username and key from browserstack.
+
+To run the tests, execute:
+
+cucumber
