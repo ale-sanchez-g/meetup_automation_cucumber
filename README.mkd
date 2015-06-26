@@ -6,3 +6,22 @@ should be run, and the username and key from browserstack.
 To run the tests, execute:
 
 cucumber
+
+Notes for the session
+
+install ruby
+    * for windows ensure you use ruby 1.9.3
+    * for windows download ansicon
+
+    * for OSX ensure you install rvm to manage
+    your ruby versions
+
+    * for Unix/Linux download rvm as well
+
+if you are not familiar with ruby go to
+ http://www.codecademy.com/en/tracks/ruby
+
+
+`gem install cucumber`
+`gem install watir-webdriver`
+`cucumber --init` will get you started
